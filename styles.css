@@ -14,6 +14,7 @@ input[type="number"] {
     font-size: 1.2rem;
 }
 
+
 /* Botón de copiar hex */
 #copyHex {
     border-top-left-radius: 0;

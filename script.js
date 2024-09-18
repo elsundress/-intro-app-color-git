@@ -88,6 +88,7 @@ function copyHex() {
         });
 }
 
+
 // Función para generar un color aleatorio
 function generateRandomColor() {
     const randomValue = () => Math.floor(Math.random() * 256);
